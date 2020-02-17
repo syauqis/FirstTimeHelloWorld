@@ -4,7 +4,9 @@
   <title>Hello World</title>
 </head>
   <h1>Hello World!</h1>
-  <h3>Semoga Bahagia!</h3>
 <body>
 </body>
+<footer>
+<p> copyright by MagiCall </p>
+</footer>
 </html>
